@@ -69,4 +69,4 @@ Simply open [Lovable](https://lovable.dev/projects/8531a473-d903-4a37-ad51-89d53
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
 
 ## Screenshot
-
+![image alt](https://github.com/dishagiri23/flexi-visionary-tool/blob/dee5f4246338e9189945bae8eb6537b43384fa2e/Flexbox.png)
